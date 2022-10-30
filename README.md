@@ -15,7 +15,7 @@
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
----
+
 <br />
 <br />
 <div>
