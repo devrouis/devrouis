@@ -11,6 +11,19 @@
 <div>
 <img align="right"  src="./image/web-development.gif"  alt="Awesome Badge" width="400"/>
 <br />
+<h2 align="center">🤝 Intouch with me </h2>
+<div align="center">
+    <!-- <a href="mailto:rickywilliam1010@gmail.com"> -->
+    <a href="">
+        <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
+    </a>
+    <!-- <a href="https://join.skype.com/invite/AB1XZDu1HgFb"> -->
+    <a href="">
+        <img src='https://img.icons8.com/color/344/skype.png' height="40">
+    </a>
+</div>
+
+<br />
 <br />
 
 ### Information Technology (IT) Expert with the fusion of a keen intellect in a 7+ years of affair with programming, applying tech to solve problems. Started working as a freelancer even before graduating, with praise, with a BS in Computer Science from JPUST. Provides expert strategic & tactical problem solving and delivers effective production to companies of all sizes, from startups to Fortune 500s, with a focus on Blockchain & Web project management and development for maximizing marketing strategy, branding and sales - all executed via exemplary leadership and people engagement skills.
