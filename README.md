@@ -6,11 +6,6 @@
 
 <img src="./image/full-stack-development.gif"  alt="Awesome Badge" width="100%"/>
 <br />
-<br />
-
-<div>
-<img align="right"  src="./image/web-development.gif"  alt="Awesome Badge" width="400"/>
-<br />
 <h2 align="center">🤝 Intouch with me </h2>
 <div align="center">
     <!-- <a href="mailto:rickywilliam1010@gmail.com"> -->
@@ -22,6 +17,12 @@
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
+
+<br />
+<br />
+<div>
+<img align="right"  src="./image/web-development.gif"  alt="Awesome Badge" width="400"/>
+
 
 <br />
 <br />
