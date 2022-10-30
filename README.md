@@ -8,16 +8,14 @@
 <br />
 <h2 align="center">🤝 Intouch with me </h2>
 <div align="center">
-    <!-- <a href="mailto:rickywilliam1010@gmail.com"> -->
-    <a href="">
+    <a href="mailto:rickywilliam1010@gmail.com">
         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
     </a>
-    <!-- <a href="https://join.skype.com/invite/AB1XZDu1HgFb"> -->
-    <a href="">
+    <a href="mailto:rickywilliam1010@outlook.com">
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
-
+---
 <br />
 <br />
 <div>
