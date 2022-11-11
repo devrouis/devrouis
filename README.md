@@ -1,44 +1,27 @@
+<h1 align="center">About Me </h1>
 <p align="center">
-  <a href="https://github.com/cool0725">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Blockchain-Developer;Frontend-developer;Backend-developer&center=true&width=500&height=50">
-  </a>
-</p>
+A passionate and determined developer who's on a journey to be at the top of her academics while not compromising on her skills. 
+<p>
+<p align="center">A creative developer who has a keen eye for aesthetically pleasing User Interfaces and loves playing around with different layouts. Started with plain HTML, and CSS and went on an expedition towards React, creating a little more advanced webpages. It was during this roadmap, this confused yet spirited developer realized how much she enjoys observing the users' behavior regarding a UI. This curiosity led this coder to discover more about UI/UX design. Thus, these days this person is engaged in learning more about design theories along with developing alluring websites.</p>
 
-<img src="./image/full-stack-development.gif"  alt="Awesome Badge" width="100%"/>
-<br />
-<h2 align="center">🤝 Intouch with me </h2>
-<div align="center">
-    <a href="mailto:rickywilliam1010@gmail.com">
-        <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
-    </a>
-    <a href="mailto:rickywilliam1010@outlook.com">
-        <img src='https://img.icons8.com/color/344/skype.png' height="40">
-    </a>
-</div>
+<p align="center">Nevertheless, this user loves reading books and spends a great deal of time reading books of different genres. Oh, and before its forgetton to mention, this user is addicted to chai and can be used as a method to abduct.</p>
 
-<br />
-<br />
-<div>
-<img align="right"  src="./image/web-development.gif"  alt="Awesome Badge" width="400"/>
+<p align="center">Fingers crossed for me to inspire more people along my way!</p>
 
 
-<br />
-<br />
+<h1 align="center"> Find me at: </h1>
 
-### Information Technology (IT) Expert with the fusion of a keen intellect in a 7+ years of affair with programming, applying tech to solve problems. Started working as a freelancer even before graduating, with praise, with a BS in Computer Science from JPUST. Provides expert strategic & tactical problem solving and delivers effective production to companies of all sizes, from startups to Fortune 500s, with a focus on Blockchain & Web project management and development for maximizing marketing strategy, branding and sales - all executed via exemplary leadership and people engagement skills.
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/devlouis98/)](https://github.com/devlouis98/)
 
-<br />
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1DA1F2?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/louis-roy-882a41256/)](https://www.linkedin.com/in/louis-roy-882a41256)
 
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louis-roy-882a41256/)](https://www.linkedin.com/in/louis-roy-882a41256)
 
-<br />
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roylouis1010@gmail.com)](mailto:roylouis1010@gmail.com)
+
 <h2 font-weight="bold">Skill set</h2>
 
-<div>
-<img align="left"  src="./image/full-stack-developer.gif"  alt="Awesome Badge" width="400"/>
-
 <div >
-
 &nbsp; &nbsp; ![solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 &nbsp; &nbsp; ![web3](https://img.shields.io/badge/Web_3-F16822?logo=web3.js&logoColor=white)
 
@@ -68,26 +51,22 @@
 &nbsp; &nbsp; ![laravel](https://img.shields.io/badge/Laravel-ff1100?logo=laravel&logoColor=white)
 &nbsp; &nbsp; ![ci](https://img.shields.io/badge/Codeigniter-ff5500?logo=codeigniter&logoColor=white)
 &nbsp; &nbsp; ![django](https://img.shields.io/badge/Django-00aaff?logo=django)
+</div>
 
 <br/>
-
-</div>
-</div>
 <br/>
 
 <h2 font-weight="bold">
-<a href="https://cool0725.github.io/">
-Portfolio (more)
-</a>
+  <a href="https://cool0725.github.io/">Portfolio (more)</a>
 </h2>
-<table>
-<tr>
-<td>
-<img src="./image/blockchain.gif"  alt="Awesome Badge" width="100%"/>
-</td>
-<td>
-<img src="./image/project_dashboard.gif"  alt="Awesome Badge" width="100%"/>
-</td>
-</tr>
 
+<table>
+  <tr>
+    <td>
+      <img src="./image/blockchain.gif"  alt="Awesome Badge" width="100%"/>
+    </td>
+    <td>
+      <img src="./image/project_dashboard.gif"  alt="Awesome Badge" width="100%"/>
+    </td>
+  </tr>
 </table>
