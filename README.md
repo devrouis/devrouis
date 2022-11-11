@@ -12,16 +12,14 @@ A passionate and determined developer who's on a journey to be at the top of her
 <h1 align="center"> Find me at: </h1>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/devlouis98/)](https://github.com/devlouis98/)
-
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1DA1F2?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/louis-roy-882a41256/)](https://www.linkedin.com/in/louis-roy-882a41256)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louis-roy-882a41256/)](https://www.linkedin.com/in/louis-roy-882a41256)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roylouis1010@gmail.com)](mailto:roylouis1010@gmail.com)
 
 <h2 font-weight="bold">Skill set</h2>
 
 <div >
+
 &nbsp; &nbsp; ![solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 &nbsp; &nbsp; ![web3](https://img.shields.io/badge/Web_3-F16822?logo=web3.js&logoColor=white)
 
